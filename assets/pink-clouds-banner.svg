@@ -1,23 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
 <defs>
- <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4e9"/><stop offset=".58" stop-color="#ffe4e4"/><stop offset="1" stop-color="#f7d8e2"/></linearGradient>
- <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#7a3843" flood-opacity=".18"/></filter>
+ <linearGradient id="footerPalette" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6e7df"/><stop offset=".35" stop-color="#e8cbd0"/><stop offset=".7" stop-color="#c994a0"/><stop offset="1" stop-color="#7d4654"/></linearGradient>
+ <filter id="softShadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#7d4654" flood-opacity=".24"/></filter>
 </defs>
-<rect width="1200" height="260" rx="13" fill="url(#paper)"/>
-<image href="https://raw.githubusercontent.com/sonalisharmas2006-oss/sonalisharmas2006-oss/main/assets/red-crumpled-paper.jpg" width="1200" height="260" opacity=".10" preserveAspectRatio="xMidYMid slice"/>
-<path d="M0 22 H1200 M0 238 H1200" stroke="#e8aab5" stroke-width="12" opacity=".22"/>
-<g fill="#f4b7c4" opacity=".43"><circle cx="100" cy="185" r="64"/><circle cx="160" cy="167" r="70"/><circle cx="1030" cy="178" r="75"/><circle cx="1100" cy="160" r="68"/></g>
-<g transform="translate(105 87) rotate(-12)" filter="url(#shadow)"><path d="M0 0 C-55 -45 -95 -25 -78 17 Q-42 35 -4 7 Q20 34 78 17 Q95 -25 0 0Z" fill="#eca0af" stroke="#c87583" stroke-width="3"/><ellipse rx="16" ry="13" fill="#ffe1e5" stroke="#c87583" stroke-width="2"/><path d="M-6 10 L-38 65 L-6 47 L-20 78 L10 13 M7 10 L40 57 L60 49 L45 76 L15 13" fill="#f4bdc6" stroke="#c87583" stroke-width="2"/></g>
-<g transform="translate(1080 68) rotate(9)"><rect width="75" height="77" fill="#fff2e7" stroke="#dca0a4" stroke-width="3" stroke-dasharray="4 4"/><text x="37" y="53" font-size="40" text-anchor="middle">🌷</text></g>
-<g fill="#e98fa1"><circle cx="240" cy="62" r="9"/><circle cx="254" cy="50" r="9"/><circle cx="268" cy="62" r="9"/><circle cx="254" cy="75" r="9"/></g>
-<text x="600" y="119" text-anchor="middle" font-family="Brush Script MT, Segoe Script, cursive" font-size="78" font-style="italic" fill="#873c4c" stroke="#fff1e9" stroke-width="1.6" filter="url(#shadow)">Sonali Sharma</text>
-<path d="M398 137 Q600 169 802 137" stroke="#c36a7a" stroke-width="4" fill="none" stroke-linecap="round"/>
-<text x="600" y="184" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#76505a">building little ideas into meaningful things ♡</text>
-<g font-family="Arial,sans-serif" font-size="17" fill="#75444c">
- <rect x="285" y="206" width="155" height="35" rx="18" fill="#fff0e3" stroke="#dda0a6" stroke-width="2"/><text x="362" y="229" text-anchor="middle">CSE (AI &amp; ML)</text>
- <rect x="455" y="206" width="130" height="35" rx="18" fill="#fff0e3" stroke="#dda0a6" stroke-width="2"/><text x="520" y="229" text-anchor="middle">Developer</text>
- <rect x="600" y="206" width="135" height="35" rx="18" fill="#fff0e3" stroke="#dda0a6" stroke-width="2"/><text x="667" y="229" text-anchor="middle">AI Explorer</text>
- <rect x="750" y="206" width="165" height="35" rx="18" fill="#fff0e3" stroke="#dda0a6" stroke-width="2"/><text x="832" y="229" text-anchor="middle">Problem Solver</text>
+<rect width="1200" height="260" rx="13" fill="url(#footerPalette)"/>
+<path d="M0 205 C150 150 260 250 390 195 S650 235 790 185 S1030 225 1200 160 V260 H0Z" fill="#f6e7df" opacity=".18"/>
+<path d="M0 224 C180 188 280 250 440 210 S710 240 890 205 S1080 224 1200 194" fill="none" stroke="#fff4ec" stroke-width="2" opacity=".38"/>
+<g fill="#fff4ec" opacity=".55" font-family="Georgia,serif" font-size="28"><text x="110" y="75">✧</text><text x="1050" y="80">♡</text><text x="280" y="225">✦</text><text x="910" y="220">✧</text></g>
+<text x="600" y="120" text-anchor="middle" font-family="Brush Script MT, Segoe Script, cursive" font-size="78" font-style="italic" fill="#6f3947" stroke="#f6e7df" stroke-width="1.2" filter="url(#softShadow)">Sonali Sharma</text>
+<path d="M400 139 Q600 168 800 139" stroke="#8b4e5d" stroke-width="3.5" fill="none" stroke-linecap="round" opacity=".8"/>
+<text x="600" y="184" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#754b56">building little ideas into meaningful things ♡</text>
+<g font-family="Arial,sans-serif" font-size="17" fill="#70424d">
+ <rect x="285" y="206" width="155" height="35" rx="18" fill="#f6e7df" stroke="#c994a0" stroke-width="2"/><text x="362" y="229" text-anchor="middle">CSE (AI &amp; ML)</text>
+ <rect x="455" y="206" width="130" height="35" rx="18" fill="#f6e7df" stroke="#c994a0" stroke-width="2"/><text x="520" y="229" text-anchor="middle">Developer</text>
+ <rect x="600" y="206" width="135" height="35" rx="18" fill="#f6e7df" stroke="#c994a0" stroke-width="2"/><text x="667" y="229" text-anchor="middle">AI Explorer</text>
+ <rect x="750" y="206" width="165" height="35" rx="18" fill="#f6e7df" stroke="#c994a0" stroke-width="2"/><text x="832" y="229" text-anchor="middle">Problem Solver</text>
 </g>
-<g fill="#bb7180" font-size="24"><text x="320" y="90">✧</text><text x="888" y="95">♡</text><text x="205" y="215">✦</text><text x="990" y="212">✧</text></g>
 </svg>
