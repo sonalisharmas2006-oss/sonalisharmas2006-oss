@@ -63,7 +63,7 @@ I enjoy turning curious ideas into useful, thoughtful software. I explore full-s
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Animated coding decoration" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Animated coding decoration" /> &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" alt="Animated developer decoration" /> &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" alt="Animated developer decoration" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Animated coding decoration" /> &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" alt="Animated developer decoration" /> &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" alt="Animated developer decoration" />
 
 </div>
 
@@ -193,13 +193,7 @@ My personal portfolio website and its source code.
 
 </div>
 
-## ✨ &nbsp; Little constellation of contributors
 
-<div align="center">
-
-<img src="https://api.vaunt.dev/v1/github/entities/sonalisharmas2006-oss/repositories/sonalisharmas2006-oss/contributors?format=svg&limit=54" width="90%" alt="Repository contributors" />
-
-</div>
 
 ## 💌 &nbsp; Find me around the internet
 
