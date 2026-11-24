@@ -5,7 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffc0d9,35:ff9fc8,70:f7c6e7,100:e9d5ff&text=Sonali%20Sharma&fontSize=54&fontColor=5b3450&fontAlignY=38&desc=building%20little%20ideas%20into%20meaningful%20things&descAlignY=58&descSize=16" width="100%" />
+<img src="./assets/clouds-banner.jpg" width="100%" alt="Pink pixel-art cloudscape banner" />
+
+<h1 align="center">Sonali Sharma</h1>
+<p align="center"><strong>building little ideas into meaningful things</strong></p>
 
 <a href="https://readme-typing-svg.herokuapp.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=21&duration=2800&pause=900&color=CB6F9D&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+AI+%26+ML+student;Aspiring+Software+Developer;Curious+builder+%26+lifelong+learner;Creating+with+code%2C+care+%26+curiosity" alt="Typing introduction" />
