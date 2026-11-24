@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFF6F8,18:F8D5E4,42:EBDCF8,68:D6ECF8,100:FFF0DD&text=Sonali%20Sharma&fontSize=55&fontColor=795D70&fontAlignY=39&desc=soft%20dreams%20%2B%20curious%20mind%20%2B%20code&descAlignY=61&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=20&duration=2600&pause=1000&color=C47A9D&center=true&vCenter=true&width=740&lines=Computer+Science+%28AI+%26+ML%29+student+%F0%9F%8C%B7;Building+ideas+with+code+and+curiosity+%E2%9C%A8;AI+%7C+Software+%7C+Creative+Technology;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=50&duration=2600&pause=1000&color=C47A9D&center=true&vCenter=true&width=740&lines=Computer+Science+%28AI+%26+ML%29+student+%F0%9F%8C%B7;Building+ideas+with+code+and+curiosity+%E2%9C%A8;AI+%7C+Software+%7C+Creative+Technology;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97" />
 
 <br/>
 
@@ -271,8 +271,6 @@ Chatbot development and experimentation.
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisharmas2006-oss&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=B96D91&text_color=705B69" alt="Top languages"/>
 
 <img width="100%" src="https://ssr-contributions-svg.vercel.app/_/sonalisharmas2006-oss?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink" alt="Animated pink contribution graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sonalisharmas2006-oss&theme=flat&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub trophies"/>
 
 </div>
 
