@@ -1,19 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
 <defs>
- <linearGradient id="footerPalette" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6e7df"/><stop offset=".35" stop-color="#e8cbd0"/><stop offset=".7" stop-color="#c994a0"/><stop offset="1" stop-color="#7d4654"/></linearGradient>
- <filter id="softShadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#7d4654" flood-opacity=".24"/></filter>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6e7df"/><stop offset=".35" stop-color="#e8cbd0"/><stop offset=".7" stop-color="#c994a0"/><stop offset="1" stop-color="#7d4654"/></linearGradient>
+ <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7d4654" stop-opacity=".65"/><stop offset=".5" stop-color="#c994a0" stop-opacity=".5"/><stop offset="1" stop-color="#f6e7df" stop-opacity=".55"/></linearGradient>
+ <filter id="nameShadow" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#4f2631" flood-opacity=".22"/></filter>
 </defs>
-<rect width="1200" height="260" rx="13" fill="url(#footerPalette)"/>
-<path d="M0 205 C150 150 260 250 390 195 S650 235 790 185 S1030 225 1200 160 V260 H0Z" fill="#f6e7df" opacity=".18"/>
-<path d="M0 224 C180 188 280 250 440 210 S710 240 890 205 S1080 224 1200 194" fill="none" stroke="#fff4ec" stroke-width="2" opacity=".38"/>
-<g fill="#fff4ec" opacity=".55" font-family="Georgia,serif" font-size="28"><text x="110" y="75">✧</text><text x="1050" y="80">♡</text><text x="280" y="225">✦</text><text x="910" y="220">✧</text></g>
-<text x="600" y="120" text-anchor="middle" font-family="Brush Script MT, Segoe Script, cursive" font-size="78" font-style="italic" fill="#6f3947" stroke="#f6e7df" stroke-width="1.2" filter="url(#softShadow)">Sonali Sharma</text>
-<path d="M400 139 Q600 168 800 139" stroke="#8b4e5d" stroke-width="3.5" fill="none" stroke-linecap="round" opacity=".8"/>
-<text x="600" y="184" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#754b56">building little ideas into meaningful things ♡</text>
-<g font-family="Arial,sans-serif" font-size="17" fill="#70424d">
- <rect x="285" y="206" width="155" height="35" rx="18" fill="#f6e7df" stroke="#c994a0" stroke-width="2"/><text x="362" y="229" text-anchor="middle">CSE (AI &amp; ML)</text>
- <rect x="455" y="206" width="130" height="35" rx="18" fill="#f6e7df" stroke="#c994a0" stroke-width="2"/><text x="520" y="229" text-anchor="middle">Developer</text>
- <rect x="600" y="206" width="135" height="35" rx="18" fill="#f6e7df" stroke="#c994a0" stroke-width="2"/><text x="667" y="229" text-anchor="middle">AI Explorer</text>
- <rect x="750" y="206" width="165" height="35" rx="18" fill="#f6e7df" stroke="#c994a0" stroke-width="2"/><text x="832" y="229" text-anchor="middle">Problem Solver</text>
-</g>
+<rect width="1200" height="260" rx="12" fill="url(#base)"/>
+<path d="M0 65 L150 91 Q290 51 440 70 T720 70 T1000 58 T1200 73 L1200 205 L0 205Z" fill="url(#wave)" opacity=".8"/>
+<path d="M0 105 Q170 62 310 86 T600 77 T900 91 T1200 78 L1200 205 L0 205Z" fill="#7d4654" opacity=".18"/>
+<path d="M0 185 Q180 145 340 183 T650 172 T930 181 T1200 166 L1200 260 L0 260Z" fill="#f6e7df" opacity=".35"/>
+<path d="M0 222 Q200 190 400 223 T800 220 T1200 215" fill="none" stroke="#fff4ec" stroke-width="2" opacity=".35"/>
+<text x="600" y="132" text-anchor="middle" font-family="Brush Script MT, Segoe Script, cursive" font-size="82" font-style="italic" fill="#6f3947" stroke="#f6e7df" stroke-width="1.2" filter="url(#nameShadow)">Sonali Sharma</text>
+<path d="M400 151 Q600 178 800 151" stroke="#8b4e5d" stroke-width="3.5" fill="none" stroke-linecap="round" opacity=".8"/>
+<text x="600" y="196" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#754b56">building little ideas into meaningful things ♡</text>
+<g fill="#fff4ec" opacity=".65" font-family="Georgia,serif" font-size="25"><text x="120" y="74">✧</text><text x="1060" y="80">♡</text><text x="270" y="223">✦</text><text x="910" y="222">✧</text></g>
 </svg>
