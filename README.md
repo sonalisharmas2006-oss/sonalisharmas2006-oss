@@ -9,7 +9,7 @@
 
 <sub><span style="color:#8f5c68">computer science · AI &amp; ML · software development</span></sub>
 
-<img src="./assets/developer-illustration.png" width="145" alt="Pastel 3D developer laptop illustration" />
+
 
 <a href="https://readme-typing-svg.herokuapp.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=17&duration=3000&pause=1200&color=AD7180&center=true&vCenter=true&width=550&lines=building+little+ideas+into+meaningful+things;learning+%26+creating+with+curiosity;AI+%26+ML+student+%7C+aspiring+developer" alt="Subtle animated introduction" />
@@ -33,7 +33,7 @@
 
 <sub><em>collecting ideas like little treasures, then turning them into code.</em></sub>
 
-<img align="right" width="230" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Cute coding animation" />
+
 
 Hey there! I'm **Sonali Sharma** — a Computer Science student specialising in **Artificial Intelligence & Machine Learning**, currently pursuing my B.Tech at **Narula Institute of Technology, Kolkata** (2025–2029).
 
@@ -45,7 +45,7 @@ I enjoy turning curious ideas into useful, thoughtful software. I explore full-s
 - ✨ I love building, experimenting, learning and collaborating
 - 🤝 Open to meaningful projects, internships and collaborations
 
-<br clear="right"/>
+
 
 ## 🌷 &nbsp; My tech garden
 
