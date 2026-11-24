@@ -9,11 +9,11 @@
 
 <div align="center">
 
-🌷 <strong>computer science student · ai/ml explorer · creative developer</strong> 🌷
+<sub>computer science student · ai/ml explorer · creative developer</sub>
 
-<sub>♡ welcome to my little corner of GitHub — a pink scrapbook of ideas, experiments & projects ♡</sub>
+<sub>♡ a little scrapbook of ideas, experiments & projects ♡</sub>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="78%" alt="Floating web technology animation" />
+<img src="./assets/developer-illustration.png" width="190" alt="Pastel 3D developer laptop illustration" />
 
 </div>
 
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="90" alt="Continuous development loop" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="90" alt="Developer thinking animation" />
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="72" alt="Continuous development loop" />
 
 </div>
 
