@@ -13,6 +13,8 @@
 
 <sub>♡ welcome to my little corner of GitHub — a pink scrapbook of ideas, experiments & projects ♡</sub>
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="78%" alt="Floating web technology animation" />
+
 </div>
 
 <a href="https://readme-typing-svg.herokuapp.com">
@@ -20,7 +22,7 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=sonalisharmas2006-oss&label=profile%20visitors&color=e89abd&style=flat" alt="Profile visitors" />
+  <img src="https://count.getloli.com/get/@sonalisharmas2006-oss?theme=rule34" alt="Animated visitor counter" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/sonalisharmas2006-oss?label=lovely%20people&style=flat&color=f3b6d2" alt="GitHub followers" />
 </p>
@@ -34,6 +36,12 @@
 ---
 
 ## ୨୧ &nbsp; A little about me
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="90" alt="Continuous development loop" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="90" alt="Developer thinking animation" />
+
+</div>
 
 > <em>collecting ideas like little treasures, then turning them into code.</em>
 
@@ -52,6 +60,12 @@ I enjoy turning curious ideas into useful, thoughtful software. I explore full-s
 <br clear="right"/>
 
 ## 🌷 &nbsp; My tech garden
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Animated coding decoration" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Animated coding decoration" /> &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100" alt="Animated developer decoration" /> &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100" alt="Animated developer decoration" />
+
+</div>
 
 <sub>the tools in my current creative toolbox</sub>
 
@@ -160,6 +174,12 @@ My personal portfolio website and its source code.
 
 ## ✧ &nbsp; My GitHub diary
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalisharmas2006-oss&bg_color=fff7fb&color=c66f9b&line=e99cbd&point=dc83ae&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
+
+</div>
+
 <sub>tiny traces of the things I build and learn over time</sub>
 
 <div align="center">
@@ -170,6 +190,14 @@ My personal portfolio website and its source code.
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisharmas2006-oss&layout=compact&hide_border=true&bg_color=fff7fb&title_color=c66f9b&text_color=76556a" alt="Most used languages" />
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalisharmas2006-oss&hide_border=true&background=fff7fb&ring=e99cbd&fire=dc83ae&currStreakLabel=c66f9b&sideLabels=76556a&dates=aa8a9c" alt="GitHub contribution streak" />
+
+</div>
+
+## ✨ &nbsp; Little constellation of contributors
+
+<div align="center">
+
+<img src="https://api.vaunt.dev/v1/github/entities/sonalisharmas2006-oss/repositories/sonalisharmas2006-oss/contributors?format=svg&limit=54" width="90%" alt="Repository contributors" />
 
 </div>
 
@@ -184,11 +212,15 @@ My personal portfolio website and its source code.
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-dceafa?style=for-the-badge&logo=linkedin&logoColor=4775a5" /></a>
 <a href="mailto:sonalisharma.dev@gmail.com"><img src="https://img.shields.io/badge/Email-f9dfd5?style=for-the-badge&logo=gmail&logoColor=b76d68" /></a>
 
+<p>
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/discord.gif" width="60" alt="Discord icon animation" /> &nbsp; <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/instagram.gif" width="60" alt="Instagram icon animation" /> &nbsp; <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/discord.gif" width="60" alt="Social icon animation" />
+</p>
+
 *Always happy to connect with people who love creating things.*
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:e9d5ff,35:f7c6e7,70:ff9fc8,100:ffc0d9" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:ffe7d5,35:ffd2df,70:f5b7ce,100:e9b9d7" width="100%" />
   <sub>Made with ♡, curiosity, and a little bit of pink.</sub>
 </div>
