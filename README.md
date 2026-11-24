@@ -1,16 +1,176 @@
-## Hi there 👋
-
 <!--
-**sonalisharmas2006-oss/sonalisharmas2006-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  SONALI SHARMA — GitHub Profile README
+  Edit this file anytime to update your profile.
 -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffc0d9,35:ff9fc8,70:f7c6e7,100:e9d5ff&text=Sonali%20Sharma&fontSize=54&fontColor=5b3450&fontAlignY=38&desc=building%20little%20ideas%20into%20meaningful%20things&descAlignY=58&descSize=16" width="100%" />
+
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=21&duration=2800&pause=900&color=CB6F9D&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+AI+%26+ML+student;Aspiring+Software+Developer;Curious+builder+%26+lifelong+learner;Creating+with+code%2C+care+%26+curiosity" alt="Typing introduction" />
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sonalisharmas2006-oss&label=profile%20visitors&color=e89abd&style=flat" alt="Profile visitors" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/sonalisharmas2006-oss?label=lovely%20people&style=flat&color=f3b6d2" alt="GitHub followers" />
+</p>
+
+<a href="https://portfolio-hub-psi-beige.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ffe0ed?style=for-the-badge&logo=googlechrome&logoColor=9b5277" /></a>
+<a href="https://github.com/sonalisharmas2006-oss"><img src="https://img.shields.io/badge/GitHub-eadcf8?style=for-the-badge&logo=github&logoColor=674b80" /></a>
+<a href="mailto:sonalisharma.dev@gmail.com"><img src="https://img.shields.io/badge/Email-fce6d8?style=for-the-badge&logo=gmail&logoColor=b76d68" /></a>
+
+</div>
+
+---
+
+## ୨୧ A little about me
+
+<img align="right" width="230" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Cute coding animation" />
+
+Hey there! I'm **Sonali Sharma** — a Computer Science student specialising in **Artificial Intelligence & Machine Learning**, currently pursuing my B.Tech at **Narula Institute of Technology, Kolkata** (2025–2029).
+
+I enjoy turning curious ideas into useful, thoughtful software. I explore full-stack development, AI-powered applications, and projects that solve real-world problems.
+
+- 🎓 B.Tech CSE (AI & ML), Narula Institute of Technology
+- 🌱 Currently strengthening my foundations in software development, DSA and AI/ML
+- 💻 Interested in Java, C, Python, frontend and backend development
+- ✨ I love building, experimenting, learning and collaborating
+- 🤝 Open to meaningful projects, internships and collaborations
+
+<br clear="right"/>
+
+## 🌷 My tech garden
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,c,python,js,ts,html,css&theme=light" />
+
+**Frameworks, tools & platforms**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,git,github,vscode,docker,figma&theme=light" />
+
+**Exploring**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,vercel,netlify,aws,gcp&theme=light" />
+
+</div>
+
+## 🎀 Things I've been building
+
+A selection of projects from my repositories. Open each card to explore the code and its current progress.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✿ AutoEscrow
+Trust and verification infrastructure for autonomous AI-agent commerce.
+
+<a href="https://github.com/sonalisharmas2006-oss/AutoEscrow">View repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✿ Shringar — Digital Wardrobe
+A gender-free digital wardrobe concept that suggests occasion-aware outfits from a personal closet.
+
+<a href="https://github.com/sonalisharmas2006-oss/Shringar-Digital-Wardrobe">View repository ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✿ H2S Dosimeter
+AI-assisted passive H₂S exposure monitoring project.
+
+<a href="https://github.com/sonalisharmas2006-oss/H2S_Dosimeter">View repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✿ HireLens
+An interview and hiring-focused project.
+
+<a href="https://github.com/sonalisharmas2006-oss/HireLens">View repository ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✿ Passport Tracker
+A project for tracking passport-related progress.
+
+<a href="https://github.com/sonalisharmas2006-oss/Passport_Tracker">View repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✿ Student Hub
+A student-focused platform and resource project.
+
+<a href="https://github.com/sonalisharmas2006-oss/Student-Hub">View repository ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✿ IBM Db2 TechX Project
+My IBM Db2Hack 2026 project submission.
+
+<a href="https://github.com/sonalisharmas2006-oss/IBM_Db2_TechX_Project_Submission">View repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ✿ Portfolio Hub
+My personal portfolio website and its source code.
+
+<a href="https://github.com/sonalisharmas2006-oss/Portfolio_hub">View repository ↗</a> · <a href="https://portfolio-hub-psi-beige.vercel.app/">Live site ↗</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/sonalisharmas2006-oss?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20all%20repositories-f7d6e6?style=for-the-badge&logo=github&logoColor=80536d" />
+  </a>
+</p>
+
+## ✧ My GitHub diary
+
+<div align="center">
+
+<img width="95%" src="https://ssr-contributions-svg.vercel.app/_/sonalisharmas2006-oss?chart=3dbar&flatten=1&weeks=34&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink" alt="Animated 3D contribution graph" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sonalisharmas2006-oss&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=c66f9b&text_color=76556a&icon_color=e99cbd&ring_color=e99cbd" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalisharmas2006-oss&layout=compact&hide_border=true&bg_color=fff7fb&title_color=c66f9b&text_color=76556a" alt="Most used languages" />
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalisharmas2006-oss&hide_border=true&background=fff7fb&ring=e99cbd&fire=dc83ae&currStreakLabel=c66f9b&sideLabels=76556a&dates=aa8a9c" alt="GitHub contribution streak" />
+
+</div>
+
+## 💌 Find me around the internet
+
+<div align="center">
+
+<a href="https://portfolio-hub-psi-beige.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-eec9dc?style=for-the-badge&logo=googlechrome&logoColor=744b63" /></a>
+<a href="https://github.com/sonalisharmas2006-oss"><img src="https://img.shields.io/badge/GitHub-e8def5?style=for-the-badge&logo=github&logoColor=674b80" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-dceafa?style=for-the-badge&logo=linkedin&logoColor=4775a5" /></a>
+<a href="mailto:sonalisharma.dev@gmail.com"><img src="https://img.shields.io/badge/Email-f9dfd5?style=for-the-badge&logo=gmail&logoColor=b76d68" /></a>
+
+*Always happy to connect with people who love creating things.*
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:e9d5ff,35:f7c6e7,70:ff9fc8,100:ffc0d9" width="100%" />
+  <sub>Made with ♡, curiosity, and a little bit of pink.</sub>
+</div>
