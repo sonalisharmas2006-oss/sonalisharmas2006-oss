@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFF6F8,18:F8D5E4,42:EBDCF8,68:D6ECF8,100:FFF0DD&text=Sonali%20Sharma&fontSize=55&fontColor=795D70&fontAlignY=39&desc=soft%20dreams%20%2B%20curious%20mind%20%2B%20code&descAlignY=61&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=35duration=2600&pause=1000&color=C47A9D&center=true&vCenter=true&width=740&lines=Computer+Science+%28AI+%26+ML%29+student+%F0%9F%8C%B7;Building+ideas+with+code+and+curiosity+%E2%9C%A8;AI+%7C+Software+%7C+Creative+Technology;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=35&duration=2600&pause=1000&color=C47A9D&center=true&vCenter=true&width=740&lines=Computer+Science+%28AI+%26+ML%29+student+%F0%9F%8C%B7;Building+ideas+with+code+and+curiosity+%E2%9C%A8;AI+%7C+Software+%7C+Creative+Technology;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97" />
 
 <br/>
 
