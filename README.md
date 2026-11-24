@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFF6F8,18:F8D5E4,42:EBDCF8,68:D6ECF8,100:FFF0DD&text=Sonali%20Sharma&fontSize=55&fontColor=795D70&fontAlignY=39&desc=soft%20dreams%20%2B%20curious%20mind%20%2B%20code&descAlignY=61&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=35&duration=2600&pause=1000&color=C47A9D&center=true&vCenter=true&width=740&lines=Computer+Science+%28AI+%26+ML%29+student+%F0%9F%8C%B7;Building+ideas+with+code+and+curiosity+%E2%9C%A8;AI+%7C+Software+%7C+Creative+Technology;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=35&duration=2600&pause=1000&color=C47A9D&center=true&vCenter=true&width=740&lines=Computer+Science+%28AI+%26+ML%29+student;Web+Developer;Building+ideas+with+code+and+curiosity+%E2%9C%A8;AI+%7C+Software+%7C+Creative+Technology;Welcome+to+my+little+corner+of+GitHub+%F0%9F%92%97" />
 
 <br/>
 
@@ -46,7 +46,7 @@ I'm a curious builder who loves turning ideas into projects, learning new techno
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE9&height=65&text=%F0%9F%8E%80%20PROJECTS%20I%E2%80%99VE%20BEEN%20PINNING&fontColor=8B6279&fontSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DCE9&height=65&text=PROJECTS%20I%E2%80%99VE%20BEEN%20PINNING&fontColor=8B6279&fontSize=22&animation=fadeIn" width="100%"/>
 
 *little ideas in different stages of becoming something real*
 
@@ -206,7 +206,7 @@ Chatbot development and experimentation.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=E8DDF7&height=65&text=%F0%9F%8D%B0%20MY%20TECH%20SHELF&fontColor=806A9C&fontSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=E8DDF7&height=65&text=MY%20TECH%20SHELF&fontColor=806A9C&fontSize=22&animation=fadeIn" width="100%"/>
 
 ### things i use · things i'm exploring
 
@@ -228,7 +228,7 @@ Chatbot development and experimentation.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=DCEEF8&height=65&text=%F0%9F%8C%B7%20CURRENTLY%20GROWING&fontColor=66899E&fontSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=DCEEF8&height=65&text=CURRENTLY%20GROWING&fontColor=66899E&fontSize=22&animation=fadeIn" width="100%"/>
 
 | 🌱 Learning corner | ✨ Current focus |
 |:--|:--|
@@ -243,7 +243,7 @@ Chatbot development and experimentation.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FBE4D5&height=65&text=%F0%9F%8F%B5%20LITTLE%20MILESTONES&fontColor=9C7865&fontSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FBE4D5&height=65&text=LITTLE%20MILESTONES&fontColor=9C7865&fontSize=22&animation=fadeIn" width="100%"/>
 
 | 🌟 Moment | 🏷️ Milestone |
 |:--|:--|
@@ -263,7 +263,7 @@ Chatbot development and experimentation.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F5DCEB&height=65&text=%F0%9F%93%8A%20MY%20GITHUB%20GARDEN&fontColor=966A85&fontSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5DCEB&height=65&text=GITHUB%20GARDEN&fontColor=966A85&fontSize=22&animation=fadeIn" width="100%"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonalisharmas2006-oss&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=B96D91&text_color=705B69&icon_color=D98EAF" alt="GitHub stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sonalisharmas2006-oss&hide_border=true&background=FFF8FB&ring=D98EAF&fire=C779A0&currStreakLabel=B96D91&sideLabels=8F7182&currStreakNum=705B69&sideNums=705B69&dates=AA92A0" alt="GitHub streak"/>
@@ -278,7 +278,7 @@ Chatbot development and experimentation.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F7E8F1&height=65&text=%F0%9F%92%8C%20LET%E2%80%99S%20BE%20INTERNET%20FRIENDS&fontColor=936F89&fontSize=21&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F7E8F1&height=65&text=LET%E2%80%99S%20BE%20INTERNET%20FRIENDS&fontColor=936F89&fontSize=21&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/sonalisharmas2006-oss"><img src="https://img.shields.io/badge/GitHub-FCE4EF?style=for-the-badge&logo=github&logoColor=76506B"/></a>
 <a href="https://www.linkedin.com/in/sonali-sharma-8b3885371"><img src="https://img.shields.io/badge/LinkedIn-E9E0F8?style=for-the-badge&logo=linkedin&logoColor=8066A5"/></a>
