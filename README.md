@@ -5,10 +5,15 @@
 
 <div align="center">
 
-<img src="./assets/clouds-banner.jpg" width="100%" alt="Pink pixel-art cloudscape banner" />
+<img src="./assets/pink-clouds-banner.svg" width="100%" alt="Sonali Sharma — pastel pink pixel-cloud banner" />
 
-<h1 align="center">Sonali Sharma</h1>
-<p align="center"><strong>building little ideas into meaningful things</strong></p>
+<div align="center">
+
+🌷 <strong>computer science student · ai/ml explorer · creative developer</strong> 🌷
+
+<sub>♡ welcome to my little corner of GitHub — a pink scrapbook of ideas, experiments & projects ♡</sub>
+
+</div>
 
 <a href="https://readme-typing-svg.herokuapp.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=21&duration=2800&pause=900&color=CB6F9D&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+AI+%26+ML+student;Aspiring+Software+Developer;Curious+builder+%26+lifelong+learner;Creating+with+code%2C+care+%26+curiosity" alt="Typing introduction" />
@@ -28,7 +33,9 @@
 
 ---
 
-## ୨୧ A little about me
+## ୨୧ &nbsp; A little about me
+
+> <em>collecting ideas like little treasures, then turning them into code.</em>
 
 <img align="right" width="230" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Cute coding animation" />
 
@@ -44,7 +51,9 @@ I enjoy turning curious ideas into useful, thoughtful software. I explore full-s
 
 <br clear="right"/>
 
-## 🌷 My tech garden
+## 🌷 &nbsp; My tech garden
+
+<sub>the tools in my current creative toolbox</sub>
 
 <div align="center">
 
@@ -62,13 +71,15 @@ I enjoy turning curious ideas into useful, thoughtful software. I explore full-s
 
 </div>
 
-## 🎀 Things I've been building
+## 🎀 &nbsp; Things I've been building
+
+<sub>little project postcards — click to peek inside each repository</sub>
 
 A selection of projects from my repositories. Open each card to explore the code and its current progress.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff0f7">
 
 ### ✿ AutoEscrow
 Trust and verification infrastructure for autonomous AI-agent commerce.
@@ -76,7 +87,7 @@ Trust and verification infrastructure for autonomous AI-agent commerce.
 <a href="https://github.com/sonalisharmas2006-oss/AutoEscrow">View repository ↗</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f9eafa">
 
 ### ✿ Shringar — Digital Wardrobe
 A gender-free digital wardrobe concept that suggests occasion-aware outfits from a personal closet.
@@ -86,7 +97,7 @@ A gender-free digital wardrobe concept that suggests occasion-aware outfits from
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff4e9">
 
 ### ✿ H2S Dosimeter
 AI-assisted passive H₂S exposure monitoring project.
@@ -94,7 +105,7 @@ AI-assisted passive H₂S exposure monitoring project.
 <a href="https://github.com/sonalisharmas2006-oss/H2S_Dosimeter">View repository ↗</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fce4f0">
 
 ### ✿ HireLens
 An interview and hiring-focused project.
@@ -104,7 +115,7 @@ An interview and hiring-focused project.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f2eaff">
 
 ### ✿ Passport Tracker
 A project for tracking passport-related progress.
@@ -112,7 +123,7 @@ A project for tracking passport-related progress.
 <a href="https://github.com/sonalisharmas2006-oss/Passport_Tracker">View repository ↗</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff0f7">
 
 ### ✿ Student Hub
 A student-focused platform and resource project.
@@ -122,7 +133,7 @@ A student-focused platform and resource project.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#f9eafa">
 
 ### ✿ IBM Db2 TechX Project
 My IBM Db2Hack 2026 project submission.
@@ -130,7 +141,7 @@ My IBM Db2Hack 2026 project submission.
 <a href="https://github.com/sonalisharmas2006-oss/IBM_Db2_TechX_Project_Submission">View repository ↗</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#fff4e9">
 
 ### ✿ Portfolio Hub
 My personal portfolio website and its source code.
@@ -147,7 +158,9 @@ My personal portfolio website and its source code.
   </a>
 </p>
 
-## ✧ My GitHub diary
+## ✧ &nbsp; My GitHub diary
+
+<sub>tiny traces of the things I build and learn over time</sub>
 
 <div align="center">
 
@@ -160,7 +173,9 @@ My personal portfolio website and its source code.
 
 </div>
 
-## 💌 Find me around the internet
+## 💌 &nbsp; Find me around the internet
+
+<sub>let's make something lovely together</sub>
 
 <div align="center">
 
