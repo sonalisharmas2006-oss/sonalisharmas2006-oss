@@ -17,8 +17,6 @@
 
 <p>
   <img src="https://count.getloli.com/get/@sonalisharmas2006-oss?theme=rule34" alt="Animated visitor counter" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/sonalisharmas2006-oss?label=lovely%20people&style=flat&color=d8aeb8" alt="GitHub followers" />
 </p>
 
 <a href="https://portfolio-hub-psi-beige.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-f2dce0?style=for-the-badge&logo=googlechrome&logoColor=855564" /></a>
